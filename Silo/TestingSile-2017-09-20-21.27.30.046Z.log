@@ -1,0 +1,5 @@
+[2017-09-20 21:27:30.496 GMT     2	ERROR  	100105	OrleansSiloHost	]	!!!!!!!!!! ERROR starting Orleans silo name=TestingSile Exception=
+Exc level 0: System.InvalidOperationException: Cannot start silo TestingSile due to prior initialization error
+   at Orleans.Runtime.Host.SiloHost.StartOrleansSilo(Boolean catchExceptions)	
+Exc level 0: System.InvalidOperationException: Cannot start silo TestingSile due to prior initialization error
+   at Orleans.Runtime.Host.SiloHost.StartOrleansSilo(Boolean catchExceptions)
