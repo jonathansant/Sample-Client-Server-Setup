@@ -1,8 +1,0 @@
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Interfaces\bin\Debug\netcoreapp2.0\GrainInterfaces.deps.json
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Interfaces\bin\Debug\netcoreapp2.0\GrainInterfaces.dll
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Interfaces\obj\Debug\netcoreapp2.0\GrainInterfaces.csproj.CoreCompileInputs.cache
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Interfaces\obj\Debug\netcoreapp2.0\GrainInterfaces.AssemblyInfoInputs.cache
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Interfaces\obj\Debug\netcoreapp2.0\GrainInterfaces.AssemblyInfo.cs
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Interfaces\bin\Debug\netcoreapp2.0\GrainInterfaces.pdb
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Interfaces\obj\Debug\netcoreapp2.0\GrainInterfaces.dll
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Interfaces\obj\Debug\netcoreapp2.0\GrainInterfaces.pdb

@@ -1,9 +1,0 @@
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\bin\Debug\netcoreapp2.0\Grains.deps.json
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\bin\Debug\netcoreapp2.0\Grains.dll
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\obj\Debug\netcoreapp2.0\Grains.csprojResolveAssemblyReference.cache
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\obj\Debug\netcoreapp2.0\Grains.csproj.CoreCompileInputs.cache
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\obj\Debug\netcoreapp2.0\Grains.AssemblyInfoInputs.cache
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\obj\Debug\netcoreapp2.0\Grains.AssemblyInfo.cs
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\bin\Debug\netcoreapp2.0\Grains.pdb
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\obj\Debug\netcoreapp2.0\Grains.dll
-C:\Users\josa3\Desktop\Train2\Sample-Client-Server-Setup\Server\Grains\obj\Debug\netcoreapp2.0\Grains.pdb
