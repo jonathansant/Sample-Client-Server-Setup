@@ -1,5 +1,4 @@
-﻿using System;
-using Orleans.Runtime.Configuration;
+﻿using Orleans.Runtime.Configuration;
 using Orleans.Runtime.Host;
 
 namespace Silo
